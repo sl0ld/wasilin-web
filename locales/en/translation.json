@@ -1,0 +1,36 @@
+{
+  "common": {
+    "appName": "Dyad App",
+    "home": "Home",
+    "buy": "Buy",
+    "rent": "Rent",
+    "sell": "Sell",
+    "agent": "Agent",
+    "myAccount": "My account",
+    "pricing": "Pricing",
+    "contact": "Contact",
+    "getStartedFree": "Get Started Free",
+    "signIn": "Sign In",
+    "signUp": "Sign Up",
+    "dashboard": "Dashboard",
+    "profile": "Profile",
+    "settings": "Settings",
+    "logout": "Logout"
+  },
+  "homePage": {
+    "heroTitle": "Your Ultimate Solution for Modern Web Applications",
+    "heroSubtitle": "Build, deploy, and scale with ease. Focus on your ideas, we handle the rest."
+  },
+  "featuresPage": {
+    "title": "Powerful Features",
+    "subtitle": "Discover what makes our platform stand out."
+  },
+  "pricingPage": {
+    "title": "Flexible Pricing Plans",
+    "subtitle": "Choose the plan that fits your needs."
+  },
+  "contactPage": {
+    "title": "Get in Touch",
+    "subtitle": "We'd love to hear from you."
+  }
+}
